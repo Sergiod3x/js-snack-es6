@@ -33,7 +33,7 @@ for (let x = 0; x < squadra.length; x++) {
 }
 
 
-let tamFalli = "";
+let teamFalli = "";
 let falliTop = 0;
 
 for (let x = 0; x < squadra.length; x++) {
